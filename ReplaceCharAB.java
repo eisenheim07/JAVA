@@ -1,3 +1,5 @@
+/*Wap to replace character from a given string.*/
+
 package practice;
 
 public class ReplaceCharAB {

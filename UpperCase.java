@@ -1,3 +1,5 @@
+/*WAP TO CONVERT ALL THE FIRST CHARACTER OF A STRING INTO UPPERCASE.*/
+
 package practice;
 
 public class UpperCase {

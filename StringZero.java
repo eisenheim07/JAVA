@@ -1,3 +1,5 @@
+/*WAP TO GET ALL THE ZEROES AT THE STARTING AND RETURN THE STRING.*/
+
 package practice;
 
 import java.util.ArrayList;

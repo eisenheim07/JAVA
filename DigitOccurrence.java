@@ -1,3 +1,5 @@
+/*WAP TO FIND THE OCCURRENCE OF A DIGIT WITHIN A RANGE.*/
+
 package practice;
 
 public class DigitOccurrence {

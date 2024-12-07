@@ -1,3 +1,5 @@
+/*WAP TO FIND THE SUPERIOR ELEMENT.*/
+
 package practice;
 
 public class SuperiorElement {

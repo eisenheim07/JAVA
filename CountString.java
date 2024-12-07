@@ -1,3 +1,5 @@
+/*WAP TO MATCH THE SEQUENCE OF A GIVEN STRING.*/
+
 package practice;
 
 import java.util.regex.Pattern;

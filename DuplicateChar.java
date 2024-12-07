@@ -1,3 +1,5 @@
+/*WAP TO FIND THE DUPLICATE OCCURRENCE IN A GIVEN STRING.*/
+
 package practice;
 
 public class DuplicateChar {

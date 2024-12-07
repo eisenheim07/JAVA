@@ -1,3 +1,5 @@
+/*WAP TO FIND META NUMBER.*/
+
 package practice;
 
 public class MetaNum {

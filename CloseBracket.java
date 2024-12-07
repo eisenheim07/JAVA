@@ -1,9 +1,12 @@
+/*WAP TO FIND THE VALID PARENTHESES IN AN EXPRESSION.*/
+
 package practice;
 
 public class CloseBracket {
 
 	public static void main(String args[]) {
-		String brackets = "[}";
+		/* String brackets = "[]{}()"; */	//VALID SEQUENCE
+		String brackets = "[}";	//INVALID SEQUENCE
 		System.out.print("STATUS " + func(brackets));
 	}
 
