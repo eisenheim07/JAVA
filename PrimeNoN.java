@@ -4,7 +4,7 @@ package practice;
 
 public class PrimeNoN {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {	
 		int num = 100;
 		System.err.println("RESULT => " + func(num));
 	}

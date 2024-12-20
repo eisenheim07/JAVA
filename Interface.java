@@ -1,9 +1,11 @@
+/*INTERFACE EXAMPLE.*/
+
 package practice;
 
 interface Testing {
-	public static final int var = 0;	// ALLOWED
+	public static final int var = 0; // ALLOWED
 
-	public abstract void show();	// ALLOWED
+	public abstract void show(); // ALLOWED
 
 	// ALLOWED
 	private void display() {
