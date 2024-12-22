@@ -4,8 +4,24 @@ import java.util.ArrayList;
 
 public class Arr2Max {
     public static void main(String[] args) {
-        int[] arr = {1001,11,22,33,44,55,23,34,45,56,100,200,1000};
-        func(arr);
+        int[] arr = {1001, 11, 22, 33, 44, 55, 23, 34, 45, 56, 100, 200, 1000, 1003};
+//        func(arr);
+        System.out.println("RESULT => " + funcSL(arr));
+    }
+
+    private static int funcSL(int[] arr) {
+        int largest = Integer.MIN_VALUE;
+        int second = Integer.MIN_VALUE;
+        for (int j : arr) {
+            if (j > largest) {
+                second = largest;
+                largest = j;
+            } else if (j > second) {
+                second = j;
+            }
+        }
+//        System.out.println(second);
+        return second;
     }
 
     private static void func(int[] arr) {
@@ -31,6 +47,6 @@ public class Arr2Max {
                 min = arrayList.get(i);
             }
         }
-        System.out.println("2nd MAXIMUM => " + (max-min));
+        System.out.println("2nd MAXIMUM => " + (max - min));
     }
 }
