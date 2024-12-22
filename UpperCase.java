@@ -1,6 +1,6 @@
 /*WAP TO CONVERT ALL THE FIRST CHARACTER OF A STRING INTO UPPERCASE.*/
 
-package practice;
+package javac;
 
 public class UpperCase {
 

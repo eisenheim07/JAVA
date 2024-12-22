@@ -1,6 +1,6 @@
 /*WAP TO SORT THE ARRAY IN ACENDING ORDER.*/
 
-package practice;
+package javac;
 
 import java.util.Arrays;
 
@@ -21,7 +21,6 @@ public class ArraysSort {
                     temp = ar[i];
                     ar[i] = ar[j];
                     ar[j] = temp;
-                    ;
                 }
             }
         }

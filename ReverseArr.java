@@ -1,6 +1,6 @@
 /*WAP TO REVERSE AN ARRAY WITH IN-PLACE WITHOUT USING ANY METHOD.*/
 
-package practice;
+package javac;
 
 import java.util.Arrays;
 

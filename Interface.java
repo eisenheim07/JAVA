@@ -1,6 +1,6 @@
 /*INTERFACE EXAMPLE.*/
 
-package practice;
+package javac;
 
 interface Testing {
 	public static final int var = 0; // ALLOWED

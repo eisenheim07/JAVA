@@ -1,6 +1,6 @@
-package practice;
+package javac;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class Arr2Max {
     public static void main(String[] args) {

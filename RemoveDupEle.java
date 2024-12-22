@@ -2,7 +2,7 @@
 ALL UNIQUE ELEMENTS SHOULD BE AT THE STARTING OF ARRAY
 WITHOUT USING ANY EXTERNAL ARRAY, AND RETURN ITS INDEX.*/
 
-package practice;
+package javac;
 
 import java.util.Arrays;
 

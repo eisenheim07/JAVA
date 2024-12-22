@@ -1,6 +1,6 @@
 /*Wap to replace character from a given string.*/
 
-package practice;
+package javac;
 
 public class ReplaceCharAB {
 

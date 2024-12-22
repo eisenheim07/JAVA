@@ -1,6 +1,6 @@
 /*WAP TO GET ALL THE ZEROES AT THE STARTING AND RETURN THE STRING.*/
 
-package practice;
+package javac;
 
 import java.util.ArrayList;
 import java.util.Arrays;

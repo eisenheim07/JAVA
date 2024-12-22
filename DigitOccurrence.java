@@ -1,6 +1,6 @@
 /*WAP TO FIND THE OCCURRENCE OF A DIGIT WITHIN A RANGE.*/
 
-package practice;
+package javac;
 
 public class DigitOccurrence {
 

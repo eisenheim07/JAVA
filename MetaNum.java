@@ -1,6 +1,6 @@
 /*WAP TO FIND META NUMBER.*/
 
-package practice;
+package javac;
 
 public class MetaNum {
 

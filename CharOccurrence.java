@@ -1,6 +1,6 @@
 /*WAP TO FIND WHETHER THE STRING IS ANAGRAM OR NOT.*/
 
-package practice;
+package javac;
 
 import java.util.HashMap;
 import java.util.Map;

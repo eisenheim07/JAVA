@@ -1,6 +1,6 @@
 /*ABSTRACTION EXAMPLE.*/
 
-package practice;
+package javac;
 
 abstract class Abstraction {
 

@@ -1,6 +1,6 @@
 /*USING COMPARABLE AND COMPARATOR.*/
 
-package practice;
+package javac;
 
 import java.util.ArrayList;
 import java.util.Collections;

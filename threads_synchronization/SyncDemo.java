@@ -1,6 +1,6 @@
 /*WAP FOR THREAD SYNCHRONIZATION.*/
 
-package practice.threads_synchronization;
+package javac.threads_synchronization;
 
 public class SyncDemo {
     public static void main(String[] args) throws InterruptedException {

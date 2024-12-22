@@ -1,4 +1,4 @@
-package practice;
+package javac;
 
 public class FibonacciSeries {
 

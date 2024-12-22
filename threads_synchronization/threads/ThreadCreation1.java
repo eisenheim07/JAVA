@@ -1,6 +1,6 @@
 /*WAP TO CREATE SIMPLE THREAD.*/
 
-package practice.threads_synchronization.threads;
+package javac.threads_synchronization.threads;
 
 public class ThreadCreation1 extends Thread {
 

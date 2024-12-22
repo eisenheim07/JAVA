@@ -1,6 +1,6 @@
 /*WAP TO FIND THE GIVEN NUMBER IS PRIME OR NOT.*/
 
-package practice;
+package javac;
 
 public class PrimeNum {
 

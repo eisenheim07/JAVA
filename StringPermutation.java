@@ -1,6 +1,6 @@
 /*WAP TO FIND THE PERMUTATIONS FOR A GIVEN STRING.*/
 
-package practice;
+package javac;
 
 import java.util.Map;
 import java.util.TreeMap;

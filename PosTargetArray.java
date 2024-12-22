@@ -1,6 +1,6 @@
 /*WAP TO CREATE A GIVEN ARRAY THROUGH POS[] AT POS[] INDEXES WITH AR[] ELEMENTS.*/
 
-package practice;
+package javac;
 
 import java.util.ArrayList;
 import java.util.Arrays;

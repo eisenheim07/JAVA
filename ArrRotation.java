@@ -1,6 +1,6 @@
 /*WAP TO ROTATE AN ARRAY UPTO 'K' TIMES.*/
 
-package practice;
+package javac;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package practice;
+package javac;
 
 import java.util.Arrays;
 

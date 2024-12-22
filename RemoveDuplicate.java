@@ -1,6 +1,6 @@
 /*WAP TO FIND ALL THE UNIQUE OF AN STRING[].*/
 
-package practice;
+package javac;
 
 import java.util.ArrayList;
 import java.util.Collections;

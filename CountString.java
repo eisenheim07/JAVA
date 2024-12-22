@@ -1,6 +1,6 @@
 /*WAP TO MATCH THE SEQUENCE OF A GIVEN STRING.*/
 
-package practice;
+package javac;
 
 import java.util.regex.Pattern;
 

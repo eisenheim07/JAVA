@@ -1,4 +1,4 @@
-package practice.threads_synchronization.threads;
+package javac.threads_synchronization.threads;
 
 /*
 1.) SINGLE TASK FROM SINGLE THREAD.

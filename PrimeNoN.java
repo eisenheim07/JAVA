@@ -1,6 +1,6 @@
 /*WAP TO PRINT PRIME NUMBERS UPTO Nth RANGE.*/
 
-package practice;
+package javac;
 
 public class PrimeNoN {
 

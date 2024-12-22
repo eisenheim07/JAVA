@@ -1,6 +1,6 @@
 /*WAP TO FIND THE SUPERIOR ELEMENT.*/
 
-package practice;
+package javac;
 
 public class SuperiorElement {
 
