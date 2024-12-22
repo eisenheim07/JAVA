@@ -1,3 +1,5 @@
+/*WAP FOR THREAD SYNCHRONIZATION.*/
+
 package practice.threads_synchronization;
 
 public class SyncDemo {
