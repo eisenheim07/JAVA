@@ -7,8 +7,8 @@ import java.util.Stack;
 public class CloseBracket {
 
     public static void main(String[] args) {
-        /* String brackets = "[]{}()"; */    //VALID SEQUENCE
-        String brackets = "[}";    //INVALID SEQUENCE
+        String brackets = "[]{}()"; //VALID SEQUENCE
+//        String brackets = "[}";    //INVALID SEQUENCE
         System.out.print("STATUS => " + func(brackets));
         System.out.println();
         System.out.print("STATUS => " + validateBrackets(brackets));
@@ -20,8 +20,20 @@ public class CloseBracket {
         }
         Stack<Character> characters = new Stack<>();
         for (int i = 0; i < brackets.length(); i++) {
-            if (brackets.charAt(i) == '}' || brackets.charAt(i) == ')' || brackets.charAt(i) == ']') {
-                if (characters.peek() == '{' || characters.peek() == '(' || characters.peek() == '[') {
+            if (brackets.charAt(i) == '}') {
+                if (characters.peek() == '{') {
+                    characters.pop();
+                } else {
+                    return false;
+                }
+            } else if (brackets.charAt(i) == ')') {
+                if (characters.peek() == '(') {
+                    characters.pop();
+                } else {
+                    return false;
+                }
+            } else if (brackets.charAt(i) == ']') {
+                if (characters.peek() == '[') {
                     characters.pop();
                 } else {
                     return false;
