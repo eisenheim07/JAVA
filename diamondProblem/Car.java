@@ -1,3 +1,5 @@
+/*DIAMOND PROBLEM SOLUTION.*/
+
 package javac.diamondProblem;
 
 public interface Car {
